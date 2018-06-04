@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.punchthrough.bean.sdk:sdk-2.1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/sdk-2.1.1.aar/91ddf39ba195c34cce90ebf504325f90/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/sdk-2.1.1.aar/91ddf39ba195c34cce90ebf504325f90/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.punchthrough.bean.sdk/sdk/2.1.1/3d0550c9f9b078940a30fc3226a7402bfd49968c/sdk-2.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
